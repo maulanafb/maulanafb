@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @maulanafb
-- 👀 I’m interested in Mobile App Programming
-- 🌱 I’m currently learning flutter
-- 💞️ I’m looking to collaborate on Mobile App Development
+- 👀 I’m interested in Web Develoment
+- 🌱 I’m currently learning ReactJs
+- 💞️ I’m looking to collaborate on Web Development
 
