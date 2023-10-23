@@ -26,7 +26,7 @@ I'm a web developer who is passionate about creating engaging and useful web sol
 
 ## Contact Me
 
-If you're interested in collaborating or just want to talk about web development, please reach out to me at [email@example.com](mailto:gagas112212@gmail.com) or through [LinkedIn](https://www.linkedin.com/in/maulana-fatih-b52390195/).
+If you're interested in collaborating or just want to talk about web development, please reach out to me at [gagas112212@gmail.com](mailto:gagas112212@gmail.com) or through [LinkedIn](https://www.linkedin.com/in/maulana-fatih-b52390195/).
 
 ## Let's Connect
 
