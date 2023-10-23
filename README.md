@@ -2,12 +2,6 @@
 
 👋 Hi, I'm Maulana (@maulanafb).
 
-👀 I’m interested in Web Development.
-
-🌱 I’m currently learning FullStack Web Development.
-
-💞️ I’m looking to collaborate on Web Development projects.
-
 ## About Me
 
 I'm a passionate FullStack Web Developer with a knack for crafting elegant and efficient web solutions. My journey in the world of web development has equipped me with a diverse skill set, enabling me to build both the front-end and back-end of web applications.
