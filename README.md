@@ -10,7 +10,7 @@
 
 ## About Me
 
-I'm a web developer who is passionate about creating engaging and useful web solutions. I have a keen interest in web development and am striving to become a FullStack Web Developer.
+I'm a passionate FullStack Web Developer with a knack for crafting elegant and efficient web solutions. My journey in the world of web development has equipped me with a diverse skill set, enabling me to build both the front-end and back-end of web applications.
 
 ## My Skills
 
