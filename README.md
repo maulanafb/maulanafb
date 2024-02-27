@@ -10,6 +10,8 @@ I'm a passionate FullStack Web Developer with a knack for crafting elegant and e
 
 - HTML, CSS, JavaScript
 - React
+- Golang
+- ASP.NET
 - Node.js
 - Express.js
 - Nest.js
