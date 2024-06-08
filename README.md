@@ -16,7 +16,9 @@ I'm a passionate FullStack Web Developer with a knack for crafting elegant and e
 - Express.js
 - Nest.js
 - Nextjs
+- MySql
 - MongoDB
+- PostgreSQL
 - Git & GitHub
 - Laravel
 
