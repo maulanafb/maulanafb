@@ -9,6 +9,8 @@ I'm a passionate FullStack Web Developer with a knack for crafting elegant and e
 ## My Skills
 
 - HTML, CSS, JavaScript
+- Java
+- Spring Boot
 - React
 - Golang
 - ASP.NET
