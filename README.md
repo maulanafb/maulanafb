@@ -13,6 +13,8 @@ I'm a passionate FullStack Web Developer with a knack for crafting elegant and e
 - Spring Boot
 - React
 - Golang
+- Dart
+- Flutter
 - ASP.NET
 - Node.js
 - Express.js
